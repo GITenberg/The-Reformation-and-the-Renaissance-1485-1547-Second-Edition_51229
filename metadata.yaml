@@ -8,7 +8,12 @@ contributor:
     - Bewsher, Frederick William
     gutenberg_agent_id: '43531'
     url: http://www.gutenberg.org/2009/agents/43531
+covers:
+- cover_type: archival
+  image_path: 51229-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51229#The-Reformation-and-the-Renaissance-1485-1547-Second-Edition
 gutenberg_issued: '2016-02-16'
 gutenberg_type: Text
 identifiers:
